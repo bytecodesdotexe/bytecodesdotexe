@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @bytecodesdotexe
+- 👀 I’m interested in programming, video editting, sports and tech in general.
+- 🌱 I’m currently learning python and java script
+- 📫 How to reach me : stdulgh@gmail.com
